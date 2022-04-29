@@ -1,0 +1,1154 @@
+[
+ {
+   "sectionNo": "1",
+   "sectionNameEng": "Short title",
+   "sectionNameChi": "簡稱",
+   "pdfUrl": "assets/1.pdf"
+ },
+ {
+   "sectionNo": "2",
+   "sectionNameEng": "Interpretation",
+   "sectionNameChi": "釋義",
+   "pdfUrl": "assets/2.pdf"
+ },
+ {
+   "sectionNo": "3",
+   "sectionNameEng": "Who may present a bankruptcy petition",
+   "sectionNameChi": "誰可提出破產呈請",
+   "pdfUrl": "assets/3.pdf"
+ },
+ {
+   "sectionNo": "4",
+   "sectionNameEng": "Conditions to be satisfied in respect of debtor",
+   "sectionNameChi": "須就債務人而符合的條件",
+   "pdfUrl": "assets/4.pdf"
+ },
+ {
+   "sectionNo": "5",
+   "sectionNameEng": "Other preliminary conditions",
+   "sectionNameChi": "其他初步條件",
+   "pdfUrl": "assets/5.pdf"
+ },
+ {
+   "sectionNo": "6",
+   "sectionNameEng": "Grounds of creditor's petition",
+   "sectionNameChi": "債權人提出呈請的理由",
+   "pdfUrl": "assets/6.pdf"
+ },
+ {
+   "sectionNo": "6A",
+   "sectionNameEng": "Definition of inability to pay, etc.; the statutory demand",
+   "sectionNameChi": "無能力償付的定義等；法定要求償債書",
+   "pdfUrl": "assets/6A.pdf"
+ },
+ {
+   "sectionNo": "6B",
+   "sectionNameEng": "Creditor with security",
+   "sectionNameChi": "有抵押的債權人",
+   "pdfUrl": "assets/6B.pdf"
+ },
+ {
+   "sectionNo": "6C",
+   "sectionNameEng": "Expedited petition",
+   "sectionNameChi": "特快呈請",
+   "pdfUrl": "assets/6C.pdf"
+ },
+ {
+   "sectionNo": "6D",
+   "sectionNameEng": "Proceedings on creditor's petition",
+   "sectionNameChi": "因應債權人的呈請而進行的法律程序",
+   "pdfUrl": "assets/6D.pdf"
+ },
+ {
+   "sectionNo": "7",
+   "sectionNameEng": "Liability of firm to have bankruptcy order made against it",
+   "sectionNameChi": "破產令所針對商號的法律責任",
+   "pdfUrl": "assets/7.pdf"
+ },
+ {
+   "sectionNo": "8",
+   "sectionNameEng": "Powers of Official Receiver and duties of debtor on petition being filed",
+   "sectionNameChi": "呈請書一經提交後破產管理署署長的權力與債務人的責任",
+   "pdfUrl": "assets/8.pdf"
+ },
+ {
+   "sectionNo": "9",
+   "sectionNameEng": "Creditor's petition and order thereon",
+   "sectionNameChi": "債權人的呈請及據此作出的命令",
+   "pdfUrl": "assets/9.pdf"
+ },
+ {
+   "sectionNo": "10",
+   "sectionNameEng": "Grounds of debtor's petition",
+   "sectionNameChi": "債務人的呈請理由",
+   "pdfUrl": "assets/10.pdf"
+ },
+ {
+   "sectionNo": "11",
+   "sectionNameEng": "Appearance of Official Receiver on petition",
+   "sectionNameChi": "破產管理署署長在呈請的聆訊中出庭",
+   "pdfUrl": "assets/11.pdf"
+ },
+ {
+   "sectionNo": "12",
+   "sectionNameEng": "Effect of bankruptcy order",
+   "sectionNameChi": "破產令的效力",
+   "pdfUrl": "assets/12.pdf"
+ },
+ {
+   "sectionNo": "13",
+   "sectionNameEng": "Power to appoint interim trustee",
+   "sectionNameChi": "委任臨時受託人的權力",
+   "pdfUrl": "assets/13.pdf"
+ },
+ {
+   "sectionNo": "14",
+   "sectionNameEng": "Power to stay pending proceedings",
+   "sectionNameChi": "擱置待決法律程序的權力",
+   "pdfUrl": "assets/14.pdf"
+ },
+ {
+   "sectionNo": "15",
+   "sectionNameEng": "Power to appoint special manager",
+   "sectionNameChi": "委任特別經理人的權力",
+   "pdfUrl": "assets/15.pdf"
+ },
+ {
+   "sectionNo": "16",
+   "sectionNameEng": "Advertisement of bankruptcy order",
+   "sectionNameChi": "破產令的刊登",
+   "pdfUrl": "assets/16.pdf"
+ },
+ {
+   "sectionNo": "17",
+   "sectionNameEng": "Power to make appointment of trustees",
+   "sectionNameChi": "委任受託人的權力",
+   "pdfUrl": "assets/17.pdf"
+ },
+ {
+   "sectionNo": "17A",
+   "sectionNameEng": "Summoning of meeting to appoint first trustee",
+   "sectionNameChi": "為委任首任受託人而召集會議",
+   "pdfUrl": "assets/17A.pdf"
+ },
+ {
+   "sectionNo": "17B",
+   "sectionNameEng": "Power of creditors to requisition meeting",
+   "sectionNameChi": "債權人請求召集大會的權力",
+   "pdfUrl": "assets/17B.pdf"
+ },
+ {
+   "sectionNo": "18",
+   "sectionNameEng": "Statement of affairs",
+   "sectionNameChi": "資產負債狀況說明書",
+   "pdfUrl": "assets/18.pdf"
+ },
+ {
+   "sectionNo": "19",
+   "sectionNameEng": "Public examination of bankrupt",
+   "sectionNameChi": "對破產人進行公開訊問",
+   "pdfUrl": "assets/19.pdf"
+ },
+ {
+   "sectionNo": "20",
+   "sectionNameEng": "Interim order",
+   "sectionNameChi": "臨時命令",
+   "pdfUrl": "assets/20.pdf"
+ },
+ {
+   "sectionNo": "20A",
+   "sectionNameEng": "Application for interim order",
+   "sectionNameChi": "臨時命令的申請",
+   "pdfUrl": "assets/20A.pdf"
+ },
+ {
+   "sectionNo": "20B",
+   "sectionNameEng": "Effect of application",
+   "sectionNameChi": "申請的效力",
+   "pdfUrl": "assets/20B.pdf"
+ },
+ {
+   "sectionNo": "20C",
+   "sectionNameEng": "Cases in which interim order can be made",
+   "sectionNameChi": "可作出臨時命令的情況",
+   "pdfUrl": "assets/20C.pdf"
+ },
+ {
+   "sectionNo": "20D",
+   "sectionNameEng": "Nominee's report on debtor's proposal",
+   "sectionNameChi": "代名人因應債務人的建議而作出的報告",
+   "pdfUrl": "assets/20D.pdf"
+ },
+ {
+   "sectionNo": "20E",
+   "sectionNameEng": "Summoning of creditors' meeting",
+   "sectionNameChi": "債權人的會議的召集",
+   "pdfUrl": "assets/20E.pdf"
+ },
+ {
+   "sectionNo": "20F",
+   "sectionNameEng": "Decisions of creditors' meeting",
+   "sectionNameChi": "債權人的會議的決定",
+   "pdfUrl": "assets/20F.pdf"
+ },
+ {
+   "sectionNo": "20G",
+   "sectionNameEng": "Report of decisions to court",
+   "sectionNameChi": "向法院作出決定的報告",
+   "pdfUrl": "assets/20G.pdf"
+ },
+ {
+   "sectionNo": "20H",
+   "sectionNameEng": "Effect of approval",
+   "sectionNameChi": "批准的效力",
+   "pdfUrl": "assets/20H.pdf"
+ },
+ {
+   "sectionNo": "20I",
+   "sectionNameEng": "Effect where debtor an undischarged bankrupt",
+   "sectionNameChi": "當債務人是未獲解除破產的破產人時的效力",
+   "pdfUrl": "assets/20I.pdf"
+ },
+ {
+   "sectionNo": "20J",
+   "sectionNameEng": "Challenge of meeting's decision",
+   "sectionNameChi": "對會議的決定的質疑",
+   "pdfUrl": "assets/20J.pdf"
+ },
+ {
+   "sectionNo": "20K",
+   "sectionNameEng": "Implementation and supervision of approved voluntary arrangement",
+   "sectionNameChi": "獲批准的自願安排的實行和監管",
+   "pdfUrl": "assets/20K.pdf"
+ },
+ {
+   "sectionNo": "20L",
+   "sectionNameEng": "Default in connection with voluntary arrangement",
+   "sectionNameChi": "與自願安排有關的失責行為",
+   "pdfUrl": "assets/20L.pdf"
+ },
+ {
+   "sectionNo": "23",
+   "sectionNameEng": "Provisions where person other than Official Receiver is appointed trustee",
+   "sectionNameChi": "關於破產管理署署長以外的人獲委任為受託人的條文",
+   "pdfUrl": "assets/23.pdf"
+ },
+ {
+   "sectionNo": "24",
+   "sectionNameEng": "Creditors' committee",
+   "sectionNameChi": "債權人委員會",
+   "pdfUrl": "assets/24.pdf"
+ },
+ {
+   "sectionNo": "26",
+   "sectionNameEng": "Duties of debtor as to discovery and realization of property",
+   "sectionNameChi": "債務人在披露經濟狀況及將財產變現方面的責任",
+   "pdfUrl": "assets/26.pdf"
+ },
+ {
+   "sectionNo": "27",
+   "sectionNameEng": "Arrest of debtor under certain circumstances",
+   "sectionNameChi": "在某些情況下逮捕債務人",
+   "pdfUrl": "assets/27.pdf"
+ },
+ {
+   "sectionNo": "28",
+   "sectionNameEng": "Re-direction of bankrupt's telegrams and letters",
+   "sectionNameChi": "破產人的電報及信件轉寄",
+   "pdfUrl": "assets/28.pdf"
+ },
+ {
+   "sectionNo": "29",
+   "sectionNameEng": "Inquiry as to bankrupt's conduct, dealings and property",
+   "sectionNameChi": "對破產人的行為操守、交易及財產進行的查訊",
+   "pdfUrl": "assets/29.pdf"
+ },
+ {
+   "sectionNo": "30",
+   "sectionNameEng": "Commencement and continuance of bankruptcy",
+   "sectionNameChi": "破產的開始和繼續",
+   "pdfUrl": "assets/30.pdf"
+ },
+ {
+   "sectionNo": "30A",
+   "sectionNameEng": "Discharge from bankruptcy",
+   "sectionNameChi": "解除破產",
+   "pdfUrl": "assets/30A.pdf"
+ },
+ {
+   "sectionNo": "30AB",
+   "sectionNameEng": "Non-commencement of relevant period: trustee's application",
+   "sectionNameChi": "有關期間不開始計算：受託人的申請",
+   "pdfUrl": "assets/30AB.pdf"
+ },
+ {
+   "sectionNo": "30AC",
+   "sectionNameEng": "Non-commencement of relevant period: court order and trustee's notice",
+   "sectionNameChi": "有關期間不開始計算：法院命令及受託人的通知",
+   "pdfUrl": "assets/30AC.pdf"
+ },
+ {
+   "sectionNo": "30B",
+   "sectionNameEng": "Early discharge of bankrupt",
+   "sectionNameChi": "破產人的提早解除破產",
+   "pdfUrl": "assets/30B.pdf"
+ },
+ {
+   "sectionNo": "30C",
+   "sectionNameEng": "Bankruptcy order made before sections 30 to 30B come into operation",
+   "sectionNameChi": "在第30至30B條實施前作出的破產令",
+   "pdfUrl": "assets/30C.pdf"
+ },
+ {
+   "sectionNo": "30D",
+   "sectionNameEng": "Order for production of documents by Commissioner of Inland Revenue",
+   "sectionNameChi": "命令稅務局局長出示文件",
+   "pdfUrl": "assets/30D.pdf"
+ },
+ {
+   "sectionNo": "30E",
+   "sectionNameEng": "Supplies of gas, water, electricity, etc.",
+   "sectionNameChi": "氣體、水、電等的供應",
+   "pdfUrl": "assets/30E.pdf"
+ },
+ {
+   "sectionNo": "32",
+   "sectionNameEng": "Effect of order of discharge",
+   "sectionNameChi": "破產解除令的效力",
+   "pdfUrl": "assets/32.pdf"
+ },
+ {
+   "sectionNo": "33",
+   "sectionNameEng": "Court's power to annul bankruptcy order",
+   "sectionNameChi": "法院廢止破產令的權力",
+   "pdfUrl": "assets/33.pdf"
+ },
+ {
+   "sectionNo": "34",
+   "sectionNameEng": "Description of debts provable in bankruptcy",
+   "sectionNameChi": "破產案中可證債權的說明",
+   "pdfUrl": "assets/34.pdf"
+ },
+ {
+   "sectionNo": "35",
+   "sectionNameEng": "Mutual credit and set-off",
+   "sectionNameChi": "相互信貸及抵銷",
+   "pdfUrl": "assets/35.pdf"
+ },
+ {
+   "sectionNo": "36",
+   "sectionNameEng": "Rules as to proof of debts",
+   "sectionNameChi": "有關債權證明的規則",
+   "pdfUrl": "assets/36.pdf"
+ },
+ {
+   "sectionNo": "37",
+   "sectionNameEng": "Priority of costs and charges",
+   "sectionNameChi": "訟費及費用的優先權",
+   "pdfUrl": "assets/37.pdf"
+ },
+ {
+   "sectionNo": "38",
+   "sectionNameEng": "Priority of debts",
+   "sectionNameChi": "債項的優先權",
+   "pdfUrl": "assets/38.pdf"
+ },
+ {
+   "sectionNo": "39",
+   "sectionNameEng": "Preferential claims in case of apprenticeship",
+   "sectionNameChi": "學徒的優先申索權",
+   "pdfUrl": "assets/39.pdf"
+ },
+ {
+   "sectionNo": "40",
+   "sectionNameEng": "Landlord's power of distress",
+   "sectionNameChi": "業主的扣押權",
+   "pdfUrl": "assets/40.pdf"
+ },
+ {
+   "sectionNo": "41",
+   "sectionNameEng": "Spouse's claim postponed",
+   "sectionNameChi": "配偶的申索的延期",
+   "pdfUrl": "assets/41.pdf"
+ },
+ {
+   "sectionNo": "42",
+   "sectionNameEng": "Restrictions on dispositions of property",
+   "sectionNameChi": "對財產產權處置的限制",
+   "pdfUrl": "assets/42.pdf"
+ },
+ {
+   "sectionNo": "43",
+   "sectionNameEng": "Definition of bankrupt's estate",
+   "sectionNameChi": "破產人的產業的定義",
+   "pdfUrl": "assets/43.pdf"
+ },
+ {
+   "sectionNo": "43A",
+   "sectionNameEng": "After-acquired property",
+   "sectionNameChi": "事後取得的財產",
+   "pdfUrl": "assets/43A.pdf"
+ },
+ {
+   "sectionNo": "43B",
+   "sectionNameEng": "Vesting in trustee of certain items of excess value",
+   "sectionNameChi": "將某些具超額價值的項目歸屬受託人",
+   "pdfUrl": "assets/43B.pdf"
+ },
+ {
+   "sectionNo": "43C",
+   "sectionNameEng": "Time-limit for notice under section 43A or 43B",
+   "sectionNameChi": "送達第43A或43B條所指通知的時限",
+   "pdfUrl": "assets/43C.pdf"
+ },
+ {
+   "sectionNo": "43D",
+   "sectionNameEng": "Application by bankrupt or creditor to include or exclude items from the bankrupt's estate",
+   "sectionNameChi": "破產人或債權人為將某些項目列入破產人的產業中或從破產人的產業中摒除某些項目而提出的申請",
+   "pdfUrl": "assets/43D.pdf"
+ },
+ {
+   "sectionNo": "43E",
+   "sectionNameEng": "Income payments orders",
+   "sectionNameChi": "收入付款令",
+   "pdfUrl": "assets/43E.pdf"
+ },
+ {
+   "sectionNo": "43F",
+   "sectionNameEng": "Continuing occupation of family home",
+   "sectionNameChi": "繼續佔用家庭住所",
+   "pdfUrl": "assets/43F.pdf"
+ },
+ {
+   "sectionNo": "44",
+   "sectionNameEng": "Provisions as to second bankruptcy",
+   "sectionNameChi": "有關第二次破產的規定",
+   "pdfUrl": "assets/44.pdf"
+ },
+ {
+   "sectionNo": "45",
+   "sectionNameEng": "Restriction of rights of creditor under execution or attachment",
+   "sectionNameChi": "債權人根據判決的執行或財產的扣押而得的權利所受的限制",
+   "pdfUrl": "assets/45.pdf"
+ },
+ {
+   "sectionNo": "46",
+   "sectionNameEng": "Duties of bailiff as to goods taken in execution",
+   "sectionNameChi": "執達主任對執行判決時所扣押貨品的職責",
+   "pdfUrl": "assets/46.pdf"
+ },
+ {
+   "sectionNo": "48",
+   "sectionNameEng": "Avoidance of general assignments of book debts unless registered",
+   "sectionNameChi": "帳面債項的全面轉讓如無登記則無效",
+   "pdfUrl": "assets/48.pdf"
+ },
+ {
+   "sectionNo": "49",
+   "sectionNameEng": "Transactions at an undervalue",
+   "sectionNameChi": "以低於一般價值而訂立的交易",
+   "pdfUrl": "assets/49.pdf"
+ },
+ {
+   "sectionNo": "50",
+   "sectionNameEng": "Unfair preferences",
+   "sectionNameChi": "不公平的優惠",
+   "pdfUrl": "assets/50.pdf"
+ },
+ {
+   "sectionNo": "51",
+   "sectionNameEng": "Relevant time under sections 49 and 50",
+   "sectionNameChi": "第49及50條所指的有關時間",
+   "pdfUrl": "assets/51.pdf"
+ },
+ {
+   "sectionNo": "51A",
+   "sectionNameEng": "Orders under sections 49 and 50",
+   "sectionNameChi": "第49及50條所指的命令",
+   "pdfUrl": "assets/51A.pdf"
+ },
+ {
+   "sectionNo": "51B",
+   "sectionNameEng": "Meaning of associate",
+   "sectionNameChi": "有聯繫人士的涵義",
+   "pdfUrl": "assets/51B.pdf"
+ },
+ {
+   "sectionNo": "52",
+   "sectionNameEng": "Dealings with undischarged bankrupt",
+   "sectionNameChi": "與未獲解除破產的破產人的交易",
+   "pdfUrl": "assets/52.pdf"
+ },
+ {
+   "sectionNo": "53",
+   "sectionNameEng": "Possession of property by trustee",
+   "sectionNameChi": "受託人對財產的管有",
+   "pdfUrl": "assets/53.pdf"
+ },
+ {
+   "sectionNo": "54",
+   "sectionNameEng": "Seizure of property of bankrupt",
+   "sectionNameChi": "對破產人財產的檢取",
+   "pdfUrl": "assets/54.pdf"
+ },
+ {
+   "sectionNo": "55",
+   "sectionNameEng": "Sale of property out of Hong Kong",
+   "sectionNameChi": "在香港以外的財產的出售",
+   "pdfUrl": "assets/55.pdf"
+ },
+ {
+   "sectionNo": "58",
+   "sectionNameEng": "Vesting and transfer of property",
+   "sectionNameChi": "財產的歸屬及轉讓",
+   "pdfUrl": "assets/58.pdf"
+ },
+ {
+   "sectionNo": "59",
+   "sectionNameEng": "Disclaimer of onerous property",
+   "sectionNameChi": "對負有繁苛條件的財產的卸棄",
+   "pdfUrl": "assets/59.pdf"
+ },
+ {
+   "sectionNo": "60",
+   "sectionNameEng": "Powers of provisional trustee and trustee to deal with property of the bankrupt",
+   "sectionNameChi": "暫行受託人及受託人處理破產人財產的權力",
+   "pdfUrl": "assets/60.pdf"
+ },
+ {
+   "sectionNo": "61",
+   "sectionNameEng": "Powers exercisable by trustee with permission of creditors' committee",
+   "sectionNameChi": "受託人在債權人委員會准許下可行使的權力",
+   "pdfUrl": "assets/61.pdf"
+ },
+ {
+   "sectionNo": "61A",
+   "sectionNameEng": "Control of trustee by court",
+   "sectionNameChi": "法院對受託人的控制",
+   "pdfUrl": "assets/61A.pdf"
+ },
+ {
+   "sectionNo": "62",
+   "sectionNameEng": "Power to allow bankrupt to manage property",
+   "sectionNameChi": "容許破產人管理財產的權力",
+   "pdfUrl": "assets/62.pdf"
+ },
+ {
+   "sectionNo": "63",
+   "sectionNameEng": "Allowance to bankrupt for maintenance or service",
+   "sectionNameChi": "破產人生活津貼或服務津貼",
+   "pdfUrl": "assets/63.pdf"
+ },
+ {
+   "sectionNo": "64",
+   "sectionNameEng": "Right of trustee to inspect goods pawned, etc.",
+   "sectionNameChi": "受託人檢查已當押等貨品的權利",
+   "pdfUrl": "assets/64.pdf"
+ },
+ {
+   "sectionNo": "65",
+   "sectionNameEng": "Limitation of trustee's powers in relation to copyright",
+   "sectionNameChi": "受託人在版權方面的權力限制",
+   "pdfUrl": "assets/65.pdf"
+ },
+ {
+   "sectionNo": "66",
+   "sectionNameEng": "Protection of Official Receiver and trustee from personal liability in certain cases",
+   "sectionNameChi": "在某些情況下破產管理署署長及受託人無須承擔個人法律責任",
+   "pdfUrl": "assets/66.pdf"
+ },
+ {
+   "sectionNo": "67",
+   "sectionNameEng": "Declaration and distribution of dividends",
+   "sectionNameChi": "攤還債款的宣布和派發",
+   "pdfUrl": "assets/67.pdf"
+ },
+ {
+   "sectionNo": "68",
+   "sectionNameEng": "Joint and separate dividends",
+   "sectionNameChi": "共同及各別的攤還債款",
+   "pdfUrl": "assets/68.pdf"
+ },
+ {
+   "sectionNo": "69",
+   "sectionNameEng": "Provision for creditors residing at a distance, etc.",
+   "sectionNameChi": "為債權人居住於遠方等情況預留款項",
+   "pdfUrl": "assets/69.pdf"
+ },
+ {
+   "sectionNo": "70",
+   "sectionNameEng": "Right of creditor who has not proved debt before declaration of a dividend",
+   "sectionNameChi": "在攤還債款宣布前尚未證明債權的債權人的權利",
+   "pdfUrl": "assets/70.pdf"
+ },
+ {
+   "sectionNo": "71",
+   "sectionNameEng": "Interest on debts",
+   "sectionNameChi": "債項的利息",
+   "pdfUrl": "assets/71.pdf"
+ },
+ {
+   "sectionNo": "71A",
+   "sectionNameEng": "Extortionate credit transactions",
+   "sectionNameChi": "敲詐性的信貸交易",
+   "pdfUrl": "assets/71A.pdf"
+ },
+ {
+   "sectionNo": "72",
+   "sectionNameEng": "Final dividend",
+   "sectionNameChi": "末期攤還債款",
+   "pdfUrl": "assets/72.pdf"
+ },
+ {
+   "sectionNo": "73",
+   "sectionNameEng": "No action for dividend",
+   "sectionNameChi": "不得就攤還債款進行訴訟",
+   "pdfUrl": "assets/73.pdf"
+ },
+ {
+   "sectionNo": "74",
+   "sectionNameEng": "Right of bankrupt to surplus",
+   "sectionNameChi": "破產人獲付盈餘的權利",
+   "pdfUrl": "assets/74.pdf"
+ },
+ {
+   "sectionNo": "74A",
+   "sectionNameEng": "Interpretation",
+   "sectionNameChi": "釋義",
+   "pdfUrl": "assets/74A.pdf"
+ },
+ {
+   "sectionNo": "74B",
+   "sectionNameEng": "Office and functions of Official Petitioner",
+   "sectionNameChi": "法定呈請人的職位及職能",
+   "pdfUrl": "assets/74B.pdf"
+ },
+ {
+   "sectionNo": "74C",
+   "sectionNameEng": "Effect of criminal bankruptcy order",
+   "sectionNameChi": "刑事破產令的效力",
+   "pdfUrl": "assets/74C.pdf"
+ },
+ {
+   "sectionNo": "75",
+   "sectionNameEng": "Appointment of Official Receiver and other officers",
+   "sectionNameChi": "破產管理署署長及其他人員的委任",
+   "pdfUrl": "assets/75.pdf"
+ },
+ {
+   "sectionNo": "76",
+   "sectionNameEng": "Status of Official Receiver",
+   "sectionNameChi": "破產管理署署長的地位",
+   "pdfUrl": "assets/76.pdf"
+ },
+ {
+   "sectionNo": "76A",
+   "sectionNameEng": "Transitional provision",
+   "sectionNameChi": "過渡性條文",
+   "pdfUrl": "assets/76A.pdf"
+ },
+ {
+   "sectionNo": "77",
+   "sectionNameEng": "Duties of Official Receiver as regards the bankrupt's conduct",
+   "sectionNameChi": "破產管理署署長在破產人行為操守方面的職責",
+   "pdfUrl": "assets/77.pdf"
+ },
+ {
+   "sectionNo": "78",
+   "sectionNameEng": "Duties of Official Receiver as to bankrupt's estate",
+   "sectionNameChi": "破產管理署署長在破產人產業方面的職責",
+   "pdfUrl": "assets/78.pdf"
+ },
+ {
+   "sectionNo": "79",
+   "sectionNameEng": "Official name of trustee and provisional trustee",
+   "sectionNameChi": "受託人及暫行受託人的正式名稱",
+   "pdfUrl": "assets/79.pdf"
+ },
+ {
+   "sectionNo": "79A",
+   "sectionNameEng": "Disqualification for appointment as trustee",
+   "sectionNameChi": "無資格獲委任為受託人",
+   "pdfUrl": "assets/79A.pdf"
+ },
+ {
+   "sectionNo": "79B",
+   "sectionNameEng": "Corrupt inducement affecting appointment as trustee",
+   "sectionNameChi": "影響受託人的委任的舞弊誘因",
+   "pdfUrl": "assets/79B.pdf"
+ },
+ {
+   "sectionNo": "80",
+   "sectionNameEng": "Power to appoint joint or successive trustees and provisional trustees",
+   "sectionNameChi": "委任共同或繼任受託人及暫行受託人的權力",
+   "pdfUrl": "assets/80.pdf"
+ },
+ {
+   "sectionNo": "81",
+   "sectionNameEng": "Proceedings in case of vacancy in office of trustee",
+   "sectionNameChi": "受託人職位出現空缺時的程序",
+   "pdfUrl": "assets/81.pdf"
+ },
+ {
+   "sectionNo": "81A",
+   "sectionNameEng": "Vacancy in office of provisional trustee",
+   "sectionNameChi": "暫行受託人職位的空缺",
+   "pdfUrl": "assets/81A.pdf"
+ },
+ {
+   "sectionNo": "82",
+   "sectionNameEng": "Discretionary powers of trustee and control thereof",
+   "sectionNameChi": "受託人的酌情決定權及該權力所受控制",
+   "pdfUrl": "assets/82.pdf"
+ },
+ {
+   "sectionNo": "83",
+   "sectionNameEng": "Appeal to court against trustee",
+   "sectionNameChi": "針對受託人向法院上訴",
+   "pdfUrl": "assets/83.pdf"
+ },
+ {
+   "sectionNo": "84",
+   "sectionNameEng": "Control of court over trustee",
+   "sectionNameChi": "法院對受託人的控制",
+   "pdfUrl": "assets/84.pdf"
+ },
+ {
+   "sectionNo": "85",
+   "sectionNameEng": "Remuneration of trustee",
+   "sectionNameChi": "受託人的酬金",
+   "pdfUrl": "assets/85.pdf"
+ },
+ {
+   "sectionNo": "85A",
+   "sectionNameEng": "Remuneration of provisional trustee and the first trustee constituted under section 112A",
+   "sectionNameChi": "暫行受託人及根據第112A條成為首任受託人的人的酬金",
+   "pdfUrl": "assets/85A.pdf"
+ },
+ {
+   "sectionNo": "86",
+   "sectionNameEng": "Allowance and taxation of costs",
+   "sectionNameChi": "訟費的批准及評定",
+   "pdfUrl": "assets/86.pdf"
+ },
+ {
+   "sectionNo": "86A",
+   "sectionNameEng": "Duties of trustee as regards the bankrupt's conduct",
+   "sectionNameChi": "受託人在破產人行為操守方面的職責",
+   "pdfUrl": "assets/86A.pdf"
+ },
+ {
+   "sectionNo": "86B",
+   "sectionNameEng": "Duties of trustee as regards the bankrupt's estate",
+   "sectionNameChi": "受託人在破產人產業方面的職責",
+   "pdfUrl": "assets/86B.pdf"
+ },
+ {
+   "sectionNo": "87",
+   "sectionNameEng": "Trustee to provide list of creditors",
+   "sectionNameChi": "受託人須提供債權人列表",
+   "pdfUrl": "assets/87.pdf"
+ },
+ {
+   "sectionNo": "88",
+   "sectionNameEng": "Trustee to provide statement of accounts",
+   "sectionNameChi": "受託人須提供帳目報表",
+   "pdfUrl": "assets/88.pdf"
+ },
+ {
+   "sectionNo": "89",
+   "sectionNameEng": "Annual statement of proceedings",
+   "sectionNameChi": "法律程序周年報表",
+   "pdfUrl": "assets/89.pdf"
+ },
+ {
+   "sectionNo": "90",
+   "sectionNameEng": "Trustee not to pay into private account",
+   "sectionNameChi": "受託人不得存款入私人帳戶",
+   "pdfUrl": "assets/90.pdf"
+ },
+ {
+   "sectionNo": "91",
+   "sectionNameEng": "Payment of moneys into bank",
+   "sectionNameChi": "將款項存入銀行",
+   "pdfUrl": "assets/91.pdf"
+ },
+ {
+   "sectionNo": "92",
+   "sectionNameEng": "Record and account to be kept by trustee",
+   "sectionNameChi": "受託人須備存紀錄及帳目",
+   "pdfUrl": "assets/92.pdf"
+ },
+ {
+   "sectionNo": "93",
+   "sectionNameEng": "Audit of trustee's accounts",
+   "sectionNameChi": "受託人帳目的審計",
+   "pdfUrl": "assets/93.pdf"
+ },
+ {
+   "sectionNo": "94",
+   "sectionNameEng": "Release of trustee",
+   "sectionNameChi": "免除受託人的職務",
+   "pdfUrl": "assets/94.pdf"
+ },
+ {
+   "sectionNo": "95",
+   "sectionNameEng": "Office of trustee vacated by insolvency",
+   "sectionNameChi": "受託人因無力償債而離職",
+   "pdfUrl": "assets/95.pdf"
+ },
+ {
+   "sectionNo": "96",
+   "sectionNameEng": "Removal of trustee",
+   "sectionNameChi": "將受託人免任",
+   "pdfUrl": "assets/96.pdf"
+ },
+ {
+   "sectionNo": "97",
+   "sectionNameEng": "General power of court",
+   "sectionNameChi": "法院的一般權力",
+   "pdfUrl": "assets/97.pdf"
+ },
+ {
+   "sectionNo": "98",
+   "sectionNameEng": "Review and appeals in bankruptcy",
+   "sectionNameChi": "破產案中的覆核及上訴",
+   "pdfUrl": "assets/98.pdf"
+ },
+ {
+   "sectionNo": "99",
+   "sectionNameEng": "General rules of procedure",
+   "sectionNameChi": "關於程序的一般規則",
+   "pdfUrl": "assets/99.pdf"
+ },
+ {
+   "sectionNo": "99A",
+   "sectionNameEng": "Jurisdiction of Registrar",
+   "sectionNameChi": "司法常務官的司法管轄權",
+   "pdfUrl": "assets/99A.pdf"
+ },
+ {
+   "sectionNo": "100",
+   "sectionNameEng": "Discretionary powers of court",
+   "sectionNameChi": "法院的酌情決定權",
+   "pdfUrl": "assets/100.pdf"
+ },
+ {
+   "sectionNo": "100A",
+   "sectionNameEng": "Court may make a regulating order",
+   "sectionNameChi": "法院可作出規管令",
+   "pdfUrl": "assets/100A.pdf"
+ },
+ {
+   "sectionNo": "100B",
+   "sectionNameEng": "First meeting and composition",
+   "sectionNameChi": "第一次會議及債務重整協議",
+   "pdfUrl": "assets/100B.pdf"
+ },
+ {
+   "sectionNo": "100D",
+   "sectionNameEng": "Appointment and removal of trustee after the making of regulating order",
+   "sectionNameChi": "在規管令作出後受託人的委任及免任",
+   "pdfUrl": "assets/100D.pdf"
+ },
+ {
+   "sectionNo": "100E",
+   "sectionNameEng": "Creditors' committee",
+   "sectionNameChi": "債權人委員會",
+   "pdfUrl": "assets/100E.pdf"
+ },
+ {
+   "sectionNo": "100F",
+   "sectionNameEng": "Informing creditors and ascertaining their wishes",
+   "sectionNameChi": "通知債權人及確定其意願",
+   "pdfUrl": "assets/100F.pdf"
+ },
+ {
+   "sectionNo": "100G",
+   "sectionNameEng": "Creditors to give notice of intention to take part in public examination",
+   "sectionNameChi": "債權人須發出擬參與公開訊問的意向通知書",
+   "pdfUrl": "assets/100G.pdf"
+ },
+ {
+   "sectionNo": "100H",
+   "sectionNameEng": "Proof of debts in the case of banks",
+   "sectionNameChi": "銀行的債權證明",
+   "pdfUrl": "assets/100H.pdf"
+ },
+ {
+   "sectionNo": "101",
+   "sectionNameEng": "Consolidation of petitions",
+   "sectionNameChi": "呈請的合併",
+   "pdfUrl": "assets/101.pdf"
+ },
+ {
+   "sectionNo": "102",
+   "sectionNameEng": "Power to change carriage of proceedings",
+   "sectionNameChi": "改變法律程序的進行的權力",
+   "pdfUrl": "assets/102.pdf"
+ },
+ {
+   "sectionNo": "103",
+   "sectionNameEng": "Continuance of proceedings on death of debtor",
+   "sectionNameChi": "債務人去世後法律程序的繼續",
+   "pdfUrl": "assets/103.pdf"
+ },
+ {
+   "sectionNo": "104",
+   "sectionNameEng": "Power to stay proceedings",
+   "sectionNameChi": "擱置法律程序的權力",
+   "pdfUrl": "assets/104.pdf"
+ },
+ {
+   "sectionNo": "105",
+   "sectionNameEng": "Power to present petition against one partner",
+   "sectionNameChi": "針對一名合夥人提出呈請的權力",
+   "pdfUrl": "assets/105.pdf"
+ },
+ {
+   "sectionNo": "106",
+   "sectionNameEng": "Power to dismiss petition against some respondents only",
+   "sectionNameChi": "只撤銷針對某些答辯人的呈請的權力",
+   "pdfUrl": "assets/106.pdf"
+ },
+ {
+   "sectionNo": "107",
+   "sectionNameEng": "Actions by trustee and bankrupt's partners",
+   "sectionNameChi": "受託人及破產人的合夥人提出的訴訟",
+   "pdfUrl": "assets/107.pdf"
+ },
+ {
+   "sectionNo": "108",
+   "sectionNameEng": "Actions on joint contracts",
+   "sectionNameChi": "有關共同合約的訴訟",
+   "pdfUrl": "assets/108.pdf"
+ },
+ {
+   "sectionNo": "109",
+   "sectionNameEng": "Proceedings in partnership name",
+   "sectionNameChi": "以合夥名義進行的法律程序",
+   "pdfUrl": "assets/109.pdf"
+ },
+ {
+   "sectionNo": "110",
+   "sectionNameEng": "Disobedience to order of court",
+   "sectionNameChi": "不服從法院命令",
+   "pdfUrl": "assets/110.pdf"
+ },
+ {
+   "sectionNo": "111",
+   "sectionNameEng": "Exclusion of corporations, companies and limited partnerships",
+   "sectionNameChi": "法團、公司及有限責任合夥除外",
+   "pdfUrl": "assets/111.pdf"
+ },
+ {
+   "sectionNo": "112",
+   "sectionNameEng": "Administration in bankruptcy of estate of person dying insolvent",
+   "sectionNameChi": "對無力償債死者的遺產進行破產遺產管理",
+   "pdfUrl": "assets/112.pdf"
+ },
+ {
+   "sectionNo": "112A",
+   "sectionNameEng": "Application of Ordinance to small bankruptcies",
+   "sectionNameChi": "條例對小額破產案的適用範圍",
+   "pdfUrl": "assets/112A.pdf"
+ },
+ {
+   "sectionNo": "113",
+   "sectionNameEng": "Power to make general rules",
+   "sectionNameChi": "訂立一般規則的權力",
+   "pdfUrl": "assets/113.pdf"
+ },
+ {
+   "sectionNo": "114",
+   "sectionNameEng": "Fees and remuneration",
+   "sectionNameChi": "費用及酬金",
+   "pdfUrl": "assets/114.pdf"
+ },
+ {
+   "sectionNo": "115",
+   "sectionNameEng": "Disposal of Official Receiver's fees",
+   "sectionNameChi": "對破產管理署署長費用的處置",
+   "pdfUrl": "assets/115.pdf"
+ },
+ {
+   "sectionNo": "116",
+   "sectionNameEng": "Evidence of proceedings at meetings of creditors",
+   "sectionNameChi": "債權人會議程序的證據",
+   "pdfUrl": "assets/116.pdf"
+ },
+ {
+   "sectionNo": "117",
+   "sectionNameEng": "Evidence of proceedings in bankruptcy",
+   "sectionNameChi": "破產法律程序的證據",
+   "pdfUrl": "assets/117.pdf"
+ },
+ {
+   "sectionNo": "118",
+   "sectionNameEng": "Swearing of affidavits",
+   "sectionNameChi": "誓章的宣誓",
+   "pdfUrl": "assets/118.pdf"
+ },
+ {
+   "sectionNo": "119",
+   "sectionNameEng": "Death of debtor or witness",
+   "sectionNameChi": "債務人或證人去世",
+   "pdfUrl": "assets/119.pdf"
+ },
+ {
+   "sectionNo": "120",
+   "sectionNameEng": "Statements made to Official Receiver or trustee through an interpreter",
+   "sectionNameChi": "透過傳譯員向破產管理署署長或受託人作出的陳述",
+   "pdfUrl": "assets/120.pdf"
+ },
+ {
+   "sectionNo": "121",
+   "sectionNameEng": "Certificate of appointment of trustee",
+   "sectionNameChi": "受託人的委任證明書",
+   "pdfUrl": "assets/121.pdf"
+ },
+ {
+   "sectionNo": "122",
+   "sectionNameEng": "Computation of time",
+   "sectionNameChi": "時間的計算",
+   "pdfUrl": "assets/122.pdf"
+ },
+ {
+   "sectionNo": "123",
+   "sectionNameEng": "Service of notices",
+   "sectionNameChi": "通知書的送達",
+   "pdfUrl": "assets/123.pdf"
+ },
+ {
+   "sectionNo": "124",
+   "sectionNameEng": "Formal defect not to invalidate proceedings",
+   "sectionNameChi": "形式上缺點並不使法律程序無效",
+   "pdfUrl": "assets/124.pdf"
+ },
+ {
+   "sectionNo": "125",
+   "sectionNameEng": "Exemption of documents from stamp duty",
+   "sectionNameChi": "免繳印花稅的文件",
+   "pdfUrl": "assets/125.pdf"
+ },
+ {
+   "sectionNo": "126",
+   "sectionNameEng": "Acting of corporations, partners, etc.",
+   "sectionNameChi": "法團、合夥人等的行事",
+   "pdfUrl": "assets/126.pdf"
+ },
+ {
+   "sectionNo": "127",
+   "sectionNameEng": "Certain provisions to bind Crown",
+   "sectionNameChi": "某些條文對官方有約束力",
+   "pdfUrl": "assets/127.pdf"
+ },
+ {
+   "sectionNo": "128",
+   "sectionNameEng": "Unclaimed and undistributed dividends or funds",
+   "sectionNameChi": "無人申索及未予派發的攤還債款或款項",
+   "pdfUrl": "assets/128.pdf"
+ },
+ {
+   "sectionNo": "128A",
+   "sectionNameEng": "Deposit of surplus cash balances",
+   "sectionNameChi": "現金餘款的存放",
+   "pdfUrl": "assets/128A.pdf"
+ },
+ {
+   "sectionNo": "129",
+   "sectionNameEng": "Fraudulent debtors",
+   "sectionNameChi": "有欺詐行為的債務人",
+   "pdfUrl": "assets/129.pdf"
+ },
+ {
+   "sectionNo": "130",
+   "sectionNameEng": "Certain offences by persons other than the bankrupt",
+   "sectionNameChi": "破產人以外的其他人所犯罪行",
+   "pdfUrl": "assets/130.pdf"
+ },
+ {
+   "sectionNo": "131",
+   "sectionNameEng": "Undischarged bankrupt obtaining credit",
+   "sectionNameChi": "未獲解除破產的破產人獲取信貸",
+   "pdfUrl": "assets/131.pdf"
+ },
+ {
+   "sectionNo": "132",
+   "sectionNameEng": "Frauds by bankrupts, etc.",
+   "sectionNameChi": "破產人的欺詐行為等",
+   "pdfUrl": "assets/132.pdf"
+ },
+ {
+   "sectionNo": "133",
+   "sectionNameEng": "Bankrupt guilty of gambling, etc.",
+   "sectionNameChi": "破產人因賭博等而有罪",
+   "pdfUrl": "assets/133.pdf"
+ },
+ {
+   "sectionNo": "134",
+   "sectionNameEng": "Bankrupt failing to keep proper accounts",
+   "sectionNameChi": "破產人不備存妥善的帳目",
+   "pdfUrl": "assets/134.pdf"
+ },
+ {
+   "sectionNo": "135",
+   "sectionNameEng": "Bankrupt absconding with property",
+   "sectionNameChi": "破產人攜財產潛逃",
+   "pdfUrl": "assets/135.pdf"
+ },
+ {
+   "sectionNo": "136",
+   "sectionNameEng": "Debtor concealing himself to avoid service, etc.",
+   "sectionNameChi": "債務人匿藏以逃避送達等",
+   "pdfUrl": "assets/136.pdf"
+ },
+ {
+   "sectionNo": "138",
+   "sectionNameEng": "Order by court for prosecution on report of trustee",
+   "sectionNameChi": "法院根據受託人報告而作出檢控令",
+   "pdfUrl": "assets/138.pdf"
+ },
+ {
+   "sectionNo": "139",
+   "sectionNameEng": "Criminal liability after discharge or composition",
+   "sectionNameChi": "解除破產後或債務重整協議後的刑事法律責任",
+   "pdfUrl": "assets/139.pdf"
+ },
+ {
+   "sectionNo": "140",
+   "sectionNameEng": "Trial and punishment of offences",
+   "sectionNameChi": "罪行的審訊及懲罰",
+   "pdfUrl": "assets/140.pdf"
+ },
+ {
+   "sectionNo": "141",
+   "sectionNameEng": "Evidence as to frauds by agents",
+   "sectionNameChi": "代理人欺詐行為的證據",
+   "pdfUrl": "assets/141.pdf"
+ },
+ {
+   "sectionNo": "142",
+   "sectionNameEng": "Summary prosecution",
+   "sectionNameChi": "循簡易程序檢控",
+   "pdfUrl": "assets/142.pdf"
+ },
+ {
+   "sectionNo": "Schedule 1",
+   "sectionNameEng": "Criminal Bankruptcy Orders",
+   "sectionNameChi": "刑事破產令",
+   "pdfUrl": "assets/Schedule 1.pdf"
+ },
+ {
+   "sectionNo": "Schedule 2",
+   "sectionNameEng": "-",
+   "sectionNameChi": "-",
+   "pdfUrl": "assets/Schedule 2.pdf"
+ },
+ {
+   "sectionNo": "Schedule 3",
+   "sectionNameEng": "Qualifications for Appointment under Section 12(1A)",
+   "sectionNameChi": "根據第12(1A)條獲委任的資格",
+   "pdfUrl": "assets/Schedule 3.pdf"
+ }
+]
